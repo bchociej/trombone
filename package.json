@@ -1,0 +1,23 @@
+{
+  "name": "trombone",
+  "version": "1.0.0",
+  "description": "A trombone sound",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bchociej/trombone.git"
+  },
+  "keywords": [
+    "trombone",
+    "sound"
+  ],
+  "author": "Ben Chociej <ben@chociej.io>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bchociej/trombone/issues"
+  },
+  "homepage": "https://github.com/bchociej/trombone"
+}
