@@ -2,6 +2,15 @@
 
 Play a trombone sound!
 
+## Package name problem!
+
+Currently, somebody else has an old package published to npm under the name 'trombone', so I can't publish it there yet!
+Meanwhile, you can add trombone to your package.json dependencies like this:
+
+```json
+  "trombone": "git://github.com/bchociej/trombone"
+```
+
 
 ## Programmatically!
 
